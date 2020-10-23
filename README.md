@@ -1,4 +1,4 @@
-# Fundamentos Python
+# Trabalho final (At) - Lógica, Computação e Algoritmos
  
 Este é AT da disciplina de Lógica, Computação e Algoritmos. Este teste está organizado em questões, para que você possa demonstrar as competências trabalhadas até aqui nas ETAPAS de 1 a 9 da disciplina.<br />
 
